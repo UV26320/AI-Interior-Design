@@ -1,0 +1,18 @@
+.main{
+    background-image: linear-gradient( rgba(255, 255, 225, 0.3), rgba(127, 17, 224, 0.2)), url("../Assets/Design2\ bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
