@@ -15,7 +15,7 @@ const Home = () => {
 
           <p className='text-lg text-white'>Our cutting-edge ensures that your home reflects your unique style and personality, effortlessly blending creativity with functionality.</p>
 
-          <button type="button" class="text-white bg-gradient-to-r from-pink-600 to-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-[1.5rem] text-lg px-5 py-4 text-center me-2 mb-2 hover:shadow-[0px_0px_15px_rgba(18,_245,_255,_0.3)] hover:bg-gradient-to-l transition-all"> <Link to="/Design">Create Design</Link> </button>
+          <button type="button" class="text-white bg-gradient-to-r from-pink-600 to-purple-800 focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-[1.5rem] text-lg px-5 py-4 text-center me-2 mb-2 hover:shadow-[0px_0px_15px_rgba(18,_245,_255,_0.3)] hover:bg-gradient-to-l transition-all"> <Link to="/Design-Interior-Free">Create Design</Link> </button>
 
         </div>
 
