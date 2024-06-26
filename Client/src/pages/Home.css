@@ -1,14 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 .hero-section-right{
     position: relative;
     bottom: 3rem;
 }
-.img-absolute{
+/* .img-absolute{
     transition: all 1s;
     animation: scaleimage 5s linear infinite;
 }
 .img-absolute{
     z-index: -9;
-}
+} */
 @keyframes scaleimage{
     0%{
         
